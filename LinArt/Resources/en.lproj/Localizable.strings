@@ -1,0 +1,132 @@
+/* General */
+"projects" = "Projects";
+"rentals" = "Rentals";
+"expenses" = "Expenses";
+"documents" = "Documents";
+"settings" = "Settings";
+"cancel" = "Cancel";
+"save" = "Save";
+"edit" = "Edit";
+"delete" = "Delete";
+"add" = "Add";
+"done" = "Done";
+
+/* Projects */
+"add_project" = "Add Project";
+"edit_project" = "Edit Project";
+"project_details" = "Project Details";
+"project_title" = "Project Title";
+"project_description" = "Description";
+"project_status" = "Status";
+"project_info" = "Project Information";
+"project_stats" = "Project Statistics";
+"quick_actions" = "Quick Actions";
+"no_project" = "No Project";
+
+/* Status */
+"active" = "Active";
+"in_progress" = "In Progress";
+"paused" = "Paused";
+"completed" = "Completed";
+"overdue" = "Overdue";
+"status" = "Status";
+
+/* Rentals */
+"add_rental" = "Add Rental";
+"rental_details" = "Rental Details";
+"rental_period" = "Rental Period";
+"cost_and_status" = "Cost & Status";
+"item_name" = "Item Name";
+"start_date" = "Start Date";
+"end_date" = "End Date";
+"rental_cost" = "Rental Cost";
+
+/* Expenses */
+"add_expense" = "Add Expense";
+"expense_details" = "Expense Details";
+"expense_title" = "Expense Title";
+"expense_description" = "Description";
+"amount" = "Amount";
+"categorization" = "Categorization";
+"category" = "Category";
+"scan_receipt" = "Scan Receipt";
+
+/* Categories */
+"general" = "General";
+"office_supplies" = "Office Supplies";
+"travel" = "Travel";
+"meals" = "Meals";
+"equipment" = "Equipment";
+"software" = "Software";
+"other" = "Other";
+
+/* Documents */
+"add_document" = "Add Document";
+"document_details" = "Document Details";
+"document_title" = "Document Title";
+"document_type" = "Document Type";
+"document_templates" = "Document Templates";
+"project_association" = "Project Association";
+"filename" = "Filename";
+"type" = "Type";
+"templates" = "Templates";
+"capture_id" = "Capture ID";
+
+/* Document Types */
+"invoice" = "Invoice";
+"contract" = "Contract";
+"receipt" = "Receipt";
+"estimate" = "Estimate";
+"report" = "Report";
+"id_document" = "ID Document";
+
+/* Receipt Scanner */
+"scan_receipt_title" = "Scan Receipt";
+"scan_receipt_description" = "Take a photo of your receipt or choose from photo library to extract expense information.";
+"take_photo" = "Take Photo";
+"choose_from_library" = "Choose from Library";
+"processing_receipt" = "Processing receipt...";
+"scanned_text" = "Scanned Text";
+"create_expense_from_scan" = "Create Expense from Scan";
+
+/* ID Capture */
+"id_capture_title" = "ID Capture";
+"id_capture_description" = "Capture identification documents for secure storage and record keeping.";
+"retake_photo" = "Retake Photo";
+"processing_id" = "Processing ID...";
+"extracted_information" = "Extracted Information";
+"save_id_document" = "Save ID Document";
+
+/* Settings */
+"language" = "Language";
+"currency" = "Currency";
+"icloud_sync" = "iCloud Sync";
+"notifications" = "Notifications";
+"export_data" = "Export Data";
+"clear_all_data" = "Clear All Data";
+"about_linart" = "About LinArt";
+"send_feedback" = "Send Feedback";
+"privacy_policy" = "Privacy Policy";
+"sync_and_backup" = "Sync & Backup";
+"data_management" = "Data Management";
+"support" = "Support";
+
+/* Export */
+"export_options" = "Export Options";
+"export_format" = "Export Format";
+"include_data" = "Include Data";
+"include_images" = "Include Images";
+"include_expenses" = "Include Expenses";
+"include_rentals" = "Include Rentals";
+"export_now" = "Export Now";
+"export_project" = "Export Project";
+
+/* About */
+"about_description" = "LinArt is a comprehensive project management app designed for creative professionals and freelancers. Manage projects, track rentals, record expenses, and organize documents all in one place.";
+"features" = "Features";
+"project_management" = "Project Management";
+"rental_tracking" = "Rental Tracking";
+"expense_management" = "Expense Management";
+"document_templates" = "Document Templates";
+"cloud_sync" = "Cloud Sync";
+"export_functionality" = "Export Functionality";

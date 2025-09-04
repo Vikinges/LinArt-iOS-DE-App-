@@ -1,0 +1,132 @@
+/* General */
+"projects" = "Projekte";
+"rentals" = "Vermietungen";
+"expenses" = "Ausgaben";
+"documents" = "Dokumente";
+"settings" = "Einstellungen";
+"cancel" = "Abbrechen";
+"save" = "Speichern";
+"edit" = "Bearbeiten";
+"delete" = "Löschen";
+"add" = "Hinzufügen";
+"done" = "Fertig";
+
+/* Projects */
+"add_project" = "Projekt hinzufügen";
+"edit_project" = "Projekt bearbeiten";
+"project_details" = "Projektdetails";
+"project_title" = "Projekttitel";
+"project_description" = "Beschreibung";
+"project_status" = "Status";
+"project_info" = "Projektinformationen";
+"project_stats" = "Projektstatistiken";
+"quick_actions" = "Schnellaktionen";
+"no_project" = "Kein Projekt";
+
+/* Status */
+"active" = "Aktiv";
+"in_progress" = "In Bearbeitung";
+"paused" = "Pausiert";
+"completed" = "Abgeschlossen";
+"overdue" = "Überfällig";
+"status" = "Status";
+
+/* Rentals */
+"add_rental" = "Vermietung hinzufügen";
+"rental_details" = "Vermietungsdetails";
+"rental_period" = "Vermietungszeitraum";
+"cost_and_status" = "Kosten & Status";
+"item_name" = "Artikelname";
+"start_date" = "Startdatum";
+"end_date" = "Enddatum";
+"rental_cost" = "Vermietungskosten";
+
+/* Expenses */
+"add_expense" = "Ausgabe hinzufügen";
+"expense_details" = "Ausgabendetails";
+"expense_title" = "Ausgabentitel";
+"expense_description" = "Beschreibung";
+"amount" = "Betrag";
+"categorization" = "Kategorisierung";
+"category" = "Kategorie";
+"scan_receipt" = "Beleg scannen";
+
+/* Categories */
+"general" = "Allgemein";
+"office_supplies" = "Bürobedarf";
+"travel" = "Reise";
+"meals" = "Mahlzeiten";
+"equipment" = "Ausrüstung";
+"software" = "Software";
+"other" = "Andere";
+
+/* Documents */
+"add_document" = "Dokument hinzufügen";
+"document_details" = "Dokumentdetails";
+"document_title" = "Dokumenttitel";
+"document_type" = "Dokumenttyp";
+"document_templates" = "Dokumentvorlagen";
+"project_association" = "Projektzuordnung";
+"filename" = "Dateiname";
+"type" = "Typ";
+"templates" = "Vorlagen";
+"capture_id" = "Ausweis erfassen";
+
+/* Document Types */
+"invoice" = "Rechnung";
+"contract" = "Vertrag";
+"receipt" = "Beleg";
+"estimate" = "Kostenvoranschlag";
+"report" = "Bericht";
+"id_document" = "Ausweisdokument";
+
+/* Receipt Scanner */
+"scan_receipt_title" = "Beleg scannen";
+"scan_receipt_description" = "Fotografieren Sie Ihren Beleg oder wählen Sie ein Foto aus der Bibliothek, um Ausgabeninformationen zu extrahieren.";
+"take_photo" = "Foto aufnehmen";
+"choose_from_library" = "Aus Bibliothek wählen";
+"processing_receipt" = "Beleg wird verarbeitet...";
+"scanned_text" = "Gescannter Text";
+"create_expense_from_scan" = "Ausgabe aus Scan erstellen";
+
+/* ID Capture */
+"id_capture_title" = "Ausweis erfassen";
+"id_capture_description" = "Erfassen Sie Ausweisdokumente für sichere Aufbewahrung und Archivierung.";
+"retake_photo" = "Foto wiederholen";
+"processing_id" = "Ausweis wird verarbeitet...";
+"extracted_information" = "Extrahierte Informationen";
+"save_id_document" = "Ausweisdokument speichern";
+
+/* Settings */
+"language" = "Sprache";
+"currency" = "Währung";
+"icloud_sync" = "iCloud-Synchronisation";
+"notifications" = "Benachrichtigungen";
+"export_data" = "Daten exportieren";
+"clear_all_data" = "Alle Daten löschen";
+"about_linart" = "Über LinArt";
+"send_feedback" = "Feedback senden";
+"privacy_policy" = "Datenschutzrichtlinie";
+"sync_and_backup" = "Sync & Backup";
+"data_management" = "Datenverwaltung";
+"support" = "Support";
+
+/* Export */
+"export_options" = "Exportoptionen";
+"export_format" = "Exportformat";
+"include_data" = "Daten einschließen";
+"include_images" = "Bilder einschließen";
+"include_expenses" = "Ausgaben einschließen";
+"include_rentals" = "Vermietungen einschließen";
+"export_now" = "Jetzt exportieren";
+"export_project" = "Projekt exportieren";
+
+/* About */
+"about_description" = "LinArt ist eine umfassende Projektverwaltungs-App für Kreativprofis und Freelancer. Verwalten Sie Projekte, verfolgen Sie Vermietungen, erfassen Sie Ausgaben und organisieren Sie Dokumente an einem Ort.";
+"features" = "Funktionen";
+"project_management" = "Projektverwaltung";
+"rental_tracking" = "Vermietungsverfolgung";
+"expense_management" = "Ausgabenverwaltung";
+"document_templates" = "Dokumentvorlagen";
+"cloud_sync" = "Cloud-Synchronisation";
+"export_functionality" = "Exportfunktionen";
